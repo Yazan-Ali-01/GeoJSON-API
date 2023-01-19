@@ -66,6 +66,8 @@
 ## About The Project
 
 Very simple API just to maximize the understanding of dealing with APIs with nodeJS and also to mess with some front-end vanilla JavaScript with the help of MapQuest API to do the geocoding in the backend and Map-box to deal with the front-end map
+and actually I deployed it, so you could take a look without hurting your head with local installing and running for the app
+So feel free to check it on https://puzzled-jade-cowboy-boots.cyclic.app
 
 Here's why:
 
