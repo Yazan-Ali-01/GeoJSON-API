@@ -73,7 +73,7 @@ Here's why:
 
 - I wanted to deal a little bit with API things like fetch and json stuff with a very simple project
 - A Geocoding project is important to understand how geocoding works and how to deal with things like coordinates
-- Vanilla JavaScript is important to deal with since it's very important to not rely on libraries and forget about the origin og them
+- Vanilla JavaScript is important to deal with since it's very important to not rely on libraries and forget about the language that created them :)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
