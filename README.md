@@ -85,7 +85,6 @@ Here's why:
 - ![https://img.shields.io/badge/Database-Mongoose-blue][mongoose-url]
 - ![https://img.shields.io/badge/frontend-map_box-red][ejs-url]
 - ![https://img.shields.io/badge/frontend-Map_Quest_API-brightgreen][bootstrap-url]
-- ![https://img.shields.io/badge/other-express--session-yellow][express-session-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
