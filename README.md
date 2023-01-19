@@ -153,7 +153,7 @@ Don't forget to give the project a star! Thanks again!
 
 Email: [yazan.ali.dev@gmail.com](yazan.ali.dev@gmail.com)
 
-Project Link: [https://github.com/Yazan-Ali-01/Book-Library](https://github.com/Yazan-Ali-01/Book-Library)
+Project Link: [https://puzzled-jade-cowboy-boots.cyclic.app](https://puzzled-jade-cowboy-boots.cyclic.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +179,7 @@ Project Link: [https://github.com/Yazan-Ali-01/Book-Library](https://github.com/
 [node-url]: https://img.shields.io/badge/backend-node.js-green
 [mongo-url]: https://img.shields.io/badge/Database-MongoDB-blue
 [mongoose-url]: https://img.shields.io/badge/-Mongoose-blue?style=flat-square
-[ejs-url]: https://img.shields.io/badge/-Map-Box-red?style=flat-square
+[ejs-url]: https://img.shields.io/badge/-Map_Box-red?style=flat-square
 [express-session-url]: https://img.shields.io/badge/-Express--Session-yellow?style=flat-square
 [flash-url]: https://img.shields.io/badge/-Flash-lightgrey?style=flat-square
 [csrf-url]: https://img.shields.io/badge/-csrf-orange?style=flat-square
